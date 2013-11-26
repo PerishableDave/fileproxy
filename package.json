@@ -1,0 +1,8 @@
+{
+	"name": "fileproxy",
+	"author": "Twenty20 <help@twenty20.com>",
+	"description": "File proxy to handle Transloadit uploads from NSURLSessionUploadTask.",
+	"dependencies": {
+		"node-transloadit": "0.0.x"
+	}
+}
